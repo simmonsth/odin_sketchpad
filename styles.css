@@ -18,7 +18,7 @@ img {
     flex-wrap: wrap;
     margin: auto;
     max-width: 600px;
-    border: 50px solid red;
+    border: 50px solid #b30000;
     border-radius: 8px;
     align-items: center;
   }
